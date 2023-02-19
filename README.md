@@ -10,8 +10,8 @@ El Api esta desarrollado con C# NetCore 6.0 utilizando Microsoft.EntityFramework
 4. GET /api/GetProductos: Retorna el listados de productos registrados el sistema.
 5. POST /api/Facturas: Registra los Datos en las Tablas de Factura y Detalle de Factura, ademas que genera el Pedido.
 6. GET /api/GetPedidoId: Retorna los datos del pedido generado segun el Id.
-7. ***
-# Generales:
+***
+# Generalidades:
 ***
 En la carpeta ApiRest se encuenta los fuentes de la solución.
 En la Carpeta BaseDeDatos se encuentra la estructura de la Base de Datos.
