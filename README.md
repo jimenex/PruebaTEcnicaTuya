@@ -1,1 +1,1 @@
-# PruebaTEcnicaTuya
+# PruebaTecnicaTuya
